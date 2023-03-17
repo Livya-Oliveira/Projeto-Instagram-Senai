@@ -1,0 +1,23 @@
+
+        body {
+            background-color: rgb(255, 255, 255);
+        }
+        h1 {
+            font-family:cursive;
+            text-align: center;
+        }
+        .post {
+            border: 3px solid #ddddddaa;
+            border-radius: 2px;
+            padding: 13px;
+            width: 540px;
+            margin-top: 200px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        Post image {
+            size-adjust: 180px ;
+
+        }
+    
